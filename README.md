@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🃏 BlackJackGame-Practice
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Este es un proyecto simple de Blackjack desarrollado como práctica personal para mejorar mis habilidades en **JavaScript**, **HTML**, y **CSS**. El objetivo es crear una versión básica del popular juego de cartas Blackjack (21), con una interfaz visual amigable y lógica de juego funcional. Ademas que es un proyecto impulsado por **SCRIMBA**
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🎯 Objetivos del Proyecto
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Practicar lógica de programación en JavaScript.
+- Aprender a manipular el DOM con JS puro.
+- Aplicar estilos con CSS sin frameworks.
+- Desarrollar una interfaz básica utilizando HTML y CSS.
 
-Happy Coding!
+## 🛠️ Tecnologías Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript (Puro / Vanilla)
+
+## 🚀 ¿Cómo ejecutar el juego?
+
+1. Clona el repositorio:
+
+   ```bash
+   git clone https://github.com/Oskillar21/BlackJackGame-Practice.git
